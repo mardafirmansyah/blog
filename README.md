@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mardafirmansyah
 
 ## Project setup
@@ -32,3 +33,6 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# blog
+>>>>>>> f1fcee14e5dfe6b58711174071ae4b15a0161558
